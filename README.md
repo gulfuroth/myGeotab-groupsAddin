@@ -18,7 +18,7 @@
 2. Haz clic en **Nuevo** y pega la siguiente URL del manifest:
 
 ```
-https://raw.githubusercontent.com/gulfuroth/myGeotab-groupsAddin/refs/heads/main/addin-manifest.json
+https://gulfuroth.github.io/myGeotab-groupsAddin/addin-manifest.json
 ```
 
 3. Guarda y recarga. El add-in aparecerá en el menú de Administración como **Groups Management**.

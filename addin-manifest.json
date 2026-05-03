@@ -4,7 +4,7 @@
     "version": "1.0",
     "items": [
         {
-            "url": "https://raw.githubusercontent.com/gulfuroth/myGeotab-groupsAddin/refs/heads/main/addin/index.html",
+            "url": "https://gulfuroth.github.io/myGeotab-groupsAddin/addin/index.html",
             "path": "AdministrationLink/",
             "menuName": {
                 "en": "Groups Management",
