@@ -1,0 +1,16 @@
+{
+    "name": "Groups Mgm [DEV]",
+    "supportEmail": "daniel.garciafernandez@telefonica.com",
+    "version": "1.0",
+    "items": [
+        {
+            "url": "https://gulfuroth.github.io/myGeotab-groupsAddin/dev/index.html",
+            "path": "AdministrationLink/",
+            "menuName": {
+                "en": "Groups Management [DEV]",
+                "es": "Gestión de Grupos [DEV]"
+            }
+        }
+    ],
+    "isSigned": false
+}
